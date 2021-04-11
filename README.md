@@ -1,0 +1,2 @@
+# demoActiveMQ
+以Apache ActiveMQ为例，实战整合ActiveMQ的队列模式和广播模式两种以及兼容两种的项目
